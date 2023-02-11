@@ -969,11 +969,6 @@ a {
   justify-content: center;
   align-items: center;
 }
-@media (max-width: 768px) {
-  .cid-tvyGYm7M3e .embla__button {
-    display: none;
-  }
-}
 .cid-tvyGYm7M3e .embla__button:disabled {
   cursor: default;
   display: none;
